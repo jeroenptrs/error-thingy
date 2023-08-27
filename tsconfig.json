@@ -1,0 +1,6 @@
+{
+  "extends": "@jeroenpeeters/tsconfig",
+  "compilerOptions": {
+    "incremental": false
+  }
+}
