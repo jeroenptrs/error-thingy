@@ -1,5 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="width: 200px; display: block; margin: auto;"/>
+<h1 align="center">❗️ assert-errors</h1>
 
-# <p style="text-align: center;">package</p>
-
-This is the description for @jeroenpeeters/package.
+<p align="center">A library attempting to make errors a bit more typed</p>
+<hr />
