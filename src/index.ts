@@ -1,5 +1,5 @@
 export { type ErrorClass } from "./utilTypes";
-export { assertErrors, assertErrorsCurry, assertErrorsOnce } from "./assertErrors";
+export { assertErrors, assertErrorsCurry, assertErrorsOnce } from "./assertErrorsSync";
 export {
   assertErrorsAsync,
   assertErrorsCurryAsync,

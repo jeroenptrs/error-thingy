@@ -1,4 +1,4 @@
-import { assertErrors, assertErrorsCurry, assertErrorsOnce } from "./assertErrors";
+import { assertErrors, assertErrorsCurry, assertErrorsOnce } from "./assertErrorsSync";
 import { UnknownError } from "./UnknownError";
 
 class MyError extends Error {}
