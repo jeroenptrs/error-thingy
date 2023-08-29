@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/jeroenptrs/assert-errors/compare/v1.0.1...v1.0.2) (2023-08-29)
+
+
+### Bug Fixes
+
+* bundle and only build esm ([fd119c1](https://github.com/jeroenptrs/assert-errors/commit/fd119c1554de3b6df20c7ebf166084310262a9d5))
+
 ## [1.0.1](https://github.com/jeroenptrs/assert-errors/compare/v1.0.0...v1.0.1) (2023-08-29)
 
 
