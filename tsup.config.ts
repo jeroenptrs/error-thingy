@@ -1,12 +1,12 @@
 import { type Options } from "tsup";
 
 // Set true if needed for library
-const splitting = true;
+const splitting = false;
 
 export const tsup: Options = {
-  format: ["cjs", "esm"],
+  format: ["esm"],
   splitting,
-  bundle: false,
+  bundle: true,
   entry: splitting ? ["src/**/*[^.test].ts"] : ["src/index.ts"],
   clean: true,
   dts: true,
