@@ -1,6 +1,6 @@
 {
   "name": "@jeroenpeeters/assert-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "type": "module",
   "description": "A library attempting to make errors a bit more typed",

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/jeroenptrs/assert-errors/compare/v1.0.0...v1.0.1) (2023-08-29)
+
+
+### Bug Fixes
+
+* rename to assertErrorsSync ([9f3ab40](https://github.com/jeroenptrs/assert-errors/commit/9f3ab40c7362474a2ea6c2d7402404717f103bc5))
+
 ## 1.0.0 (2023-08-28)
 
 
